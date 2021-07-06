@@ -1,0 +1,11 @@
+#dependencias
+node_modules/
+
+#relatórios mocha
+mochawesine-report
+
+#videos
+cypress/videos
+
+#outros
+.DS_Store
