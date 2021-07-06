@@ -14,45 +14,45 @@ O Automation Practice é um site que simula um ecommerce, e é muito utilizado e
 
 - Preparar você para desafios técnicos de processos seletivos com Cypress
 
-# **Instruções:**
+:zap: # **Instruções:**
 
 Utilizando o site automation practice, criar um novo projeto (do zero) e configurar o projeto para implementar testes utilizando o Cypress, conforme visto até aqui. Neste primeiro desafio, você deve utilizar apenas a abordagem sem cucumber. 
 
-### **IMPORTANTE:**
+:zap: ### **IMPORTANTE:**
 
-:white_check_mark: . **O e-mail de cadastro deve ser diferente entre um teste e outro**
+:heavy_exclamation_mark: **O e-mail de cadastro deve ser diferente entre um teste e outro**
 
-:white_check_mark:  **Você deve utilizar o mochawesome como ferramenta de relatório**
+:heavy_exclamation_mark: **Você deve utilizar o mochawesome como ferramenta de relatório**
 
-:white_check_mark:  **Subir o projeto no Github e enviar o link para correção**
+:heavy_exclamation_mark:  **Subir o projeto no Github e enviar o link para correção**
 
-:tw-26a1: **Adicione GIFs ou imagens de seu projeto executando quando subir para o Github**
+:heavy_exclamation_mark: **Adicione GIFs ou imagens de seu projeto executando quando subir para o Github**
 
-## Cenários que devem ser implementados
+:zap: ## Cenários que devem ser implementados
 
-:tw-26a1: Cadastrar um novo usuário
+:zap:  Cadastrar um novo usuário
 
-:tw-26a1: Fluxo do cenário de "Cadastrar um novo usuário":
+:zap:  Fluxo do cenário de "Cadastrar um novo usuário":
 
-:tw-26a1: Acessar o site automation practice** http://automationpractice.com**
+:zap: Acessar o site automation practice** http://automationpractice.com**
 
-:tw-26a1: Clicar no botão de Sign in
+:zap:  Clicar no botão de Sign in
 
-:tw-26a1: Preencher as informações de e-mail (não pode ser repetido)
+:zap: Preencher as informações de e-mail (não pode ser repetido)
 
-:tw-26a1: Clicar no botão Create an Account
+:zap:  Clicar no botão Create an Account
 
-:tw-26a1: Preencher as informações do formulário de cadastro
+:zap:  Preencher as informações do formulário de cadastro
 
-:tw-26a1: Clicar no botão Register
+:zap:  Clicar no botão Register
 
-:tw-26a1: Validar que foi redirecionado para a url correta
+:zap: Validar que foi redirecionado para a url correta
 
-:tw-26a1: Validar exibição do texto 'Welcome to your account'
+:zap:  Validar exibição do texto 'Welcome to your account'
 
 
 
-# Checklist
+:zap: # Checklist
 
 Para facilitar esse primeiro desafio, criei um checklist para te guiar. 
 Espero que te ajude a não esquecer nenhum detalhe :)
@@ -107,7 +107,7 @@ Espero que te ajude a não esquecer nenhum detalhe :)
 
 
 
-# Bibliotecas utilizadas:
+:zap: # Bibliotecas utilizadas:
 #### :tw-26a1: mochawesome 
 Para gerar o relatório dos testes realizados.
 
@@ -116,12 +116,13 @@ https://chancejs.com/
 
 para gerar dados aleatórios para cadastro.
 
-## Execução do Teste:
+:zap: ## Execução do Teste:
 <img src="https://media.giphy.com/media/TfjiLZcJ884JtiZbeO/giphy.gif" width="600" height="300" />
 
 ## Relatório gerado pode ser conferido em:
 **https://rafael-braz.github.io/Desafio-capitulo-1/**
 
+:zap::zap::zap::zap::zap::zap::zap::zap::zap::zap::zap::zap:
 
 
 
