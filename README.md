@@ -20,7 +20,7 @@ Utilizando o site automation practice, criar um novo projeto (do zero) e configu
 
 ### **IMPORTANTE:**
 
-:tw-26a1: **O e-mail de cadastro deve ser diferente entre um teste e outro**
+:tw-26a1:. **O e-mail de cadastro deve ser diferente entre um teste e outro**
 
 :tw-26a1: **Você deve utilizar o mochawesome como ferramenta de relatório**
 
@@ -57,7 +57,7 @@ Utilizando o site automation practice, criar um novo projeto (do zero) e configu
 Para facilitar esse primeiro desafio, criei um checklist para te guiar. 
 Espero que te ajude a não esquecer nenhum detalhe :)
 
-|:tw-26a1:| Criar uma nova pasta/diretório com o nome do desafio
+:tw-26a1: Criar uma nova pasta/diretório com o nome do desafio
 
 |:tw-26a1:| Abrir o pasta criada no Visual Studio Code
 
