@@ -28,7 +28,7 @@ Utilizando o site automation practice, criar um novo projeto (do zero) e configu
 
 :heavy_exclamation_mark: **Adicione GIFs ou imagens de seu projeto executando quando subir para o Github**
 
-:zap: ## Cenários que devem ser implementados
+## Cenários que devem ser implementados
 
 :zap:  Cadastrar um novo usuário
 
@@ -52,7 +52,7 @@ Utilizando o site automation practice, criar um novo projeto (do zero) e configu
 
 
 
-:zap: # Checklist
+# Checklist
 
 Para facilitar esse primeiro desafio, criei um checklist para te guiar. 
 Espero que te ajude a não esquecer nenhum detalhe :)
@@ -108,10 +108,10 @@ Espero que te ajude a não esquecer nenhum detalhe :)
 
 
 # Bibliotecas utilizadas:
-#### :tw-26a1: mochawesome 
+#### mochawesome 
 Para gerar o relatório dos testes realizados.
 
-#### :tw-26a1: Chance
+####  Chance
 https://chancejs.com/
 
 para gerar dados aleatórios para cadastro.
