@@ -107,14 +107,14 @@ Espero que te ajude a não esquecer nenhum detalhe :)
 
 
 
-# Bibliotecas utilizadas:
-#### mochawesome 
+## Bibliotecas utilizadas:
+### mochawesome 
 Para gerar o relatório dos testes realizados.
 
-####  Chance
-https://chancejs.com/
+### Chance
+#### https://chancejs.com/usage/node.html
 
-para gerar dados aleatórios para cadastro.
+para gerar dados fictícios para cadastro.
 
 ## Execução do Teste:
 <img src="https://media.giphy.com/media/TfjiLZcJ884JtiZbeO/giphy.gif" width="600" height="300" />
@@ -122,7 +122,7 @@ para gerar dados aleatórios para cadastro.
 ## Relatório gerado pode ser conferido em:
 **https://rafael-braz.github.io/Desafio-capitulo-1/**
 
-:zap::zap::zap::zap::zap::zap::zap::zap::zap::zap::zap::zap:
+
 
 
 
