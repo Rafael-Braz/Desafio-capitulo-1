@@ -14,11 +14,11 @@ O Automation Practice é um site que simula um ecommerce, e é muito utilizado e
 
 - Preparar você para desafios técnicos de processos seletivos com Cypress
 
-:zap: # **Instruções:**
+ # **Instruções:**
 
 Utilizando o site automation practice, criar um novo projeto (do zero) e configurar o projeto para implementar testes utilizando o Cypress, conforme visto até aqui. Neste primeiro desafio, você deve utilizar apenas a abordagem sem cucumber. 
 
-:zap: ### **IMPORTANTE:**
+ ### **IMPORTANTE:**
 
 :heavy_exclamation_mark: **O e-mail de cadastro deve ser diferente entre um teste e outro**
 
@@ -107,7 +107,7 @@ Espero que te ajude a não esquecer nenhum detalhe :)
 
 
 
-:zap: # Bibliotecas utilizadas:
+# Bibliotecas utilizadas:
 #### :tw-26a1: mochawesome 
 Para gerar o relatório dos testes realizados.
 
@@ -116,7 +116,7 @@ https://chancejs.com/
 
 para gerar dados aleatórios para cadastro.
 
-:zap: ## Execução do Teste:
+## Execução do Teste:
 <img src="https://media.giphy.com/media/TfjiLZcJ884JtiZbeO/giphy.gif" width="600" height="300" />
 
 ## Relatório gerado pode ser conferido em:
