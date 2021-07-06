@@ -1,5 +1,6 @@
-   ![enter image description here](https://media.istockphoto.com/vectors/origamisign2orange-vector-id1165147642?k=6&m=1165147642&s=612x612&w=0&h=xuLx5kKFRnUnIum2AkBuunr_s9SXgy29fDXYNVVJRj4=)
-# Desafio Empresa Got - Game Of Testers
+  # Desafio Empresa Got - Game Of Testers
+  ![enter image description here](https://media.istockphoto.com/vectors/origamisign2orange-vector-id1165147642?k=6&m=1165147642&s=612x612&w=0&h=xuLx5kKFRnUnIum2AkBuunr_s9SXgy29fDXYNVVJRj4=)
+
 
 Vamos usar um outro sistema criado para fins de teste: o **Automation Practice**.
 
